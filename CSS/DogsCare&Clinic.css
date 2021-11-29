@@ -1,0 +1,72 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.dogsBody {
+    background-image: url(../image/dogs_clinic.jpg);
+    background-size: 1500px;
+}
+
+.dogsID {
+    background-color: chartreuse;
+    text-align: center;
+}
+
+marquee {
+    color: crimson;
+    direction: ltr;
+    font-size: 30px;
+}
+
+form {
+    color: black;
+    text-align: center;
+}
+
+label {
+    font-size: 30px;
+}
+
+ul {
+    font-style: italic;
+}
+
+h3 {
+    text-align: center;
+    text-emphasis-position: var(1500px);
+    font-size: 30px;
+}
+
+p {
+    font-size: 20px;
+    text-align: justify;
+    margin: 20px;
+}
+
+
+/*CARE*/
+
+.careBody {
+    background-image: url(../image/pet-breeders-enjoy-the-new-boom-small-dogs-in-high-demand-amidst-covid-blues.jpg);
+    background-size: 1500px;
+}
+
+.table1 {
+    padding: 40px;
+    margin: 20px;
+    border: 1px solid;
+    color: blanchedalmond;
+    width: 1400px;
+    height: 100px;
+    font-size: 50px;
+}
+
+.tdImage {
+    background-image: url(../image/dog1.jpg);
+}
+
+.careID {
+    text-align: center;
+    color: white;
+}

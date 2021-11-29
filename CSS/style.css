@@ -1,0 +1,36 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.heading {
+    background-color: brown;
+    color: burlywood;
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+    border-radius: 10px;
+    font-family: 'Times New Roman';
+    margin: 50px;
+}
+
+#table1 {
+    border: 1px solid;
+    border-color: blue;
+    border-radius: 10%;
+    padding: 15px;
+    margin: auto;
+    background-color: purple;
+}
+
+.ID2 {
+    background-color: 4px double blue;
+    padding: 25px;
+    background-color: pink;
+}
+
+.ID1 {
+    border: 8px dotted;
+    background-color: chartreuse;
+    margin: 25px;
+}

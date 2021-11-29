@@ -1,0 +1,42 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.heading {
+    background-color: rgb(176, 114, 114);
+    color: rgb(205, 41, 36);
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+    border-radius: 10px;
+    font-family: 'Times New Roman';
+    margin: 50px;
+    text-transform: initial;
+    text-shadow: black 2px 20px;
+}
+
+div {
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+    transition: width 0.5s;
+    transition-delay: 1s;
+}
+
+div:hover {
+    width: 100%;
+}
+
+#table1 {
+    border: 1% solid;
+    border-radius: 100%;
+    padding: 1px;
+    margin: auto;
+}
+
+.ID1 {
+    border: 8px solid;
+    padding: 5px;
+    margin: 25px;
+}
