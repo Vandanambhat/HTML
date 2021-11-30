@@ -1,0 +1,52 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-image: url(../image/dogs_clinic.jpg);
+    background-size: 1500px;
+}
+
+h1 {
+    background-color: chartreuse;
+    text-align: center;
+}
+
+marquee {
+    color: crimson;
+    direction: ltr;
+    font-size: 30px;
+}
+
+form {
+    color: black;
+    text-align: center;
+}
+
+label {
+    font-size: 30px;
+}
+
+ul {
+    font-style: italic;
+}
+
+h3 {
+    text-align: center;
+    text-emphasis-position: var(1500px);
+    font-size: 30px;
+}
+
+p {
+    font-size: 20px;
+    text-align: justify;
+    margin: 20px;
+}
+
+
+/*CARE*/
+
+.tdImage {
+    background-image: url(../image/dog1.jpg);
+}
