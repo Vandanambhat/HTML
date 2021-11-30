@@ -4,7 +4,7 @@
 }
 
 body {
-    background-image: url(../image/dogs_clinic.jpg);
+    background-image: url(dogs_clinic.jpg);
     background-size: 1500px;
 }
 
@@ -48,5 +48,5 @@ p {
 /*CARE*/
 
 .tdImage {
-    background-image: url(../image/dog1.jpg);
+    background-image: url(dog1.jpg);
 }
